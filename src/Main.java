@@ -5,4 +5,4 @@ public class Main {
                 int total = balance + transfer;
                 System.out.println(total);
             }
-        }
+}
