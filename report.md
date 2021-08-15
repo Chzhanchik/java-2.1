@@ -14,7 +14,7 @@
 В процессе тестирования использовались следующие артефакты*:
 * [Code](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
+В качестве тестовых данных использовались данные:
 * [Task 1](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 Тестирование производилось в следующем окружении:
